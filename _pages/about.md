@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/engineering/).I am now working in [Smart Transport Group](https://smart-transport.github.io/) under the supervision of [Prof. Lijun Sun](https://lijunsun.github.io/). My current research focuses on data-driven modeling and machine learning for urban transportation systems. I received my Master degree in Transportation Engineering from Tongji University, and earned a Bachelor degree in Traffic Engineering from Harbin Institute of Technology.
+Hello, I am a Ph.D. student in the Department of Civil Engineering at [McGill University](https://www.mcgill.ca/engineering/). I am now working in [Smart Transport Group](https://smart-transport.github.io/) under the supervision of [Prof. Lijun Sun](https://lijunsun.github.io/). My current research focuses on data-driven modeling and machine learning for urban transportation systems. I received my Master degree in Transportation Engineering from Tongji University, and earned a Bachelor degree in Traffic Engineering from Harbin Institute of Technology.
 
 Research interest
 ======
