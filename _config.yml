@@ -89,13 +89,13 @@ author:
     McGill University <br>
     <br>
     817 Sherbrooke St. W. <br>
-    Macdonald ENG BLDG 278C <br>
+    Macdonald ENG BLDG <br>
     Montreal, QC H3A 0C3, Canada <br>
   location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=PveVQZsAAAAJ"
-  email            : "xiaoxu.chen[at]mail.mcgill.ca"
+  email            : "xiaoxu.chen@mail.mcgill.ca"
   researchgate     : "https://www.researchgate.net/profile/Xiaoxu_Chen8"
   uri              :
   bitbucket        :
