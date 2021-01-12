@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "News"
-    url: /News/    
+    url: /news/    
 
   - title: "Blogs"
     url: /year-archive/
